@@ -2,10 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:7c3aed,100:f97316&height=220&section=header&text=Ann%20Joseph&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Web%20Developer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=800&color=F97316&center=true&vCenter=true&width=760&lines=Game+Developer+%7C+Web+Developer;Building+interactive+digital+experiences;Designing+clean+interfaces+with+game+energy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=800&color=F97316&center=true&vCenter=true&width=760&lines=Game+Developer+%7C+Web+Developer;I+like+creating+games;Building+interactive+digital+experiences)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnnJo94-111827?style=for-the-badge&logo=github)](https://github.com/AnnJo94)
-[![Featured](https://img.shields.io/badge/Featured-Discrete%20Logic%20Lab-4f46e5?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/AnnJo94/discrete-logic-lab)
+[![Role](https://img.shields.io/badge/Game%20Developer-7c3aed?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/AnnJo94)
+[![Role](https://img.shields.io/badge/Web%20Developer-f97316?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/AnnJo94)
 
 </div>
 
@@ -14,11 +15,14 @@
     <td width="58%">
       <h2>Game Developer + Web Developer</h2>
       <p>
-        I create interactive digital experiences with the energy of game design and the structure of modern web development.
-        I like building projects that feel smooth, visual, responsive, and fun to use.
+        I am a game developer and web developer who likes creating games, interactive worlds,
+        playful interfaces, and digital experiences that feel fun to use.
       </p>
       <p>
-        <strong>Developer style:</strong> playful interfaces, clean layouts, interactive logic, and polished presentation.
+        <strong>Developer style:</strong> game energy, clean screens, responsive layouts, interactive logic, and polished presentation.
+      </p>
+      <p>
+        <code>Start</code> -> design the idea -> build the logic -> polish the player experience.
       </p>
     </td>
     <td width="42%" align="center">
@@ -39,6 +43,7 @@ Mindset     Build interactive, creative, game-inspired software
 ```
 
 - I am a game developer and web developer.
+- I like creating games and interactive digital experiences.
 - I enjoy creating interactive experiences with clean interfaces.
 - I like projects that combine logic, visuals, motion, and user interaction.
 
@@ -60,44 +65,18 @@ Mindset     Build interactive, creative, game-inspired software
 
 ---
 
-## Featured Build
-
-<table>
-  <tr>
-    <td width="55%">
-      <h3>Discrete Logic Lab</h3>
-      <p>An interactive SAT solver webpage for a Discrete Mathematics project.</p>
-      <p><strong>Highlights:</strong></p>
-      <p>
-        Evaluates Boolean formulas, detects SAT/UNSAT results, generates a full truth table,
-        and marks every condition as TRUE or FALSE.
-      </p>
-      <p>
-        <a href="https://github.com/AnnJo94/discrete-logic-lab">View Repository</a>
-      </p>
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnnJo94&repo=discrete-logic-lab&theme=tokyonight&hide_border=true" alt="Discrete Logic Lab repository card">
-    </td>
-  </tr>
-</table>
-
----
-
-## Game Developer Spirit
+## Developer Mode
 
 <div align="center">
 
 ```text
-START GAME
+[ GAME DEV LOADOUT ]
 
-Player      Ann Joseph
-Class       Game Developer / Web Developer
-Build       Creative UI + Interactive Logic
-Power-ups   HTML | CSS | JavaScript | Python
-Mission     Create fun, smooth, and useful digital experiences
-
-PRESS ENTER TO BUILD
+Create Games       >>> active
+Build Websites     >>> active
+Design Interfaces  >>> active
+Add Interactions   >>> active
+Polish Experience  >>> active
 ```
 
 </div>
