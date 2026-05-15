@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:7c3aed,100:f97316&height=220&section=header&text=Ann%20Joseph&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PRESS%20START%20%E2%96%B8%20GAME%20DEV%20%7C%20WEB%20DEV&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:7c3aed,100:f97316&height=220&section=header&text=Ann%20Joseph&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GAME%20DEV%20%7C%20WEB%20DEV&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2600&pause=700&color=F97316&center=true&vCenter=true&width=820&lines=%3E+PRESS+START+TO+ENTER+MY+DEV+WORLD;%3E+LOADING+GAME+DEVELOPER+MODE...;%3E+BUILDING+WEB+LEVELS+AND+GAME+IDEAS;%3E+PLAYER+ONE%3A+ANN+JOSEPH)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2600&pause=700&color=F97316&center=true&vCenter=true&width=820&lines=%3E+PRESS+START+TO+ENTER+MY+DEV+WORLD;%3E+LOADING+GAME+DEVELOPER+MODE...;%3E+BUILDING+WEB+LEVELS+AND+GAME+IDEAS;%3E+PLAYER+ONE%3A+ANN+JOSEPH)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnnJo94-111827?style=for-the-badge&logo=github)](https://github.com/AnnJo94)
 [![Role](https://img.shields.io/badge/Game%20Developer-7c3aed?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/AnnJo94)
