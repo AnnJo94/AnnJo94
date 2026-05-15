@@ -18,12 +18,6 @@
         I am a game developer and web developer who likes creating games, interactive worlds,
         playful interfaces, and digital experiences that feel fun to use.
       </p>
-      <p>
-        <strong>Developer style:</strong> game energy, clean screens, responsive layouts, interactive logic, and polished presentation.
-      </p>
-      <p>
-        <code>Start</code> -> design the idea -> build the logic -> polish the player experience.
-      </p>
     </td>
     <td width="42%" align="center">
       <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="330" alt="Girl coding animation">
