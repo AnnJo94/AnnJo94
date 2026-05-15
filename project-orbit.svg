@@ -1,0 +1,72 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: url(#bg); }
+    .title { font: 800 34px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+    .sub { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #cbd5e1; }
+    .nodeText { font: 800 15px 'Segoe UI', Arial, sans-serif; fill: #ffffff; text-anchor: middle; }
+    .nodeSub { font: 600 11px 'Segoe UI', Arial, sans-serif; fill: #fde68a; text-anchor: middle; }
+    .orbit { transform-origin: 450px 190px; animation: spin 18s linear infinite; }
+    svg:hover .orbit { animation-duration: 5s; }
+    .counter { transform-origin: center; animation: counterSpin 18s linear infinite; }
+    svg:hover .counter { animation-duration: 5s; }
+    .glow { filter: drop-shadow(0 0 16px rgba(249, 115, 22, 0.55)); }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes counterSpin { to { transform: rotate(-360deg); } }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#7c2d12"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" width="900" height="360" rx="34"/>
+  <circle cx="450" cy="190" r="118" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2" stroke-dasharray="10 12"/>
+  <circle cx="450" cy="190" r="72" stroke="#f97316" stroke-opacity="0.24" stroke-width="2"/>
+
+  <text x="450" y="70" class="title" text-anchor="middle">Project Orbit</text>
+  <text x="450" y="98" class="sub" text-anchor="middle">Auto-spinning showcase. Hover to boost speed.</text>
+
+  <g class="glow">
+    <rect x="340" y="142" width="220" height="96" rx="22" fill="#0f172a" stroke="#f97316" stroke-width="2"/>
+    <text x="450" y="178" class="nodeText">PLAYER HUB</text>
+    <text x="450" y="202" class="nodeSub">Game Dev + Web Dev</text>
+  </g>
+
+  <g class="orbit">
+    <g transform="translate(450 56)">
+      <g class="counter">
+        <rect x="-86" y="-28" width="172" height="56" rx="16" fill="url(#card)"/>
+        <text y="-4" class="nodeText">Logic Lab</text>
+        <text y="15" class="nodeSub">SAT Solver</text>
+      </g>
+    </g>
+    <g transform="translate(584 190)">
+      <g class="counter">
+        <rect x="-80" y="-28" width="160" height="56" rx="16" fill="#111827" stroke="#14b8a6" stroke-width="2"/>
+        <text y="-4" class="nodeText">Games</text>
+        <text y="15" class="nodeSub">Coming Soon</text>
+      </g>
+    </g>
+    <g transform="translate(450 324)">
+      <g class="counter">
+        <rect x="-86" y="-28" width="172" height="56" rx="16" fill="#111827" stroke="#f97316" stroke-width="2"/>
+        <text y="-4" class="nodeText">Web Levels</text>
+        <text y="15" class="nodeSub">Interfaces</text>
+      </g>
+    </g>
+    <g transform="translate(316 190)">
+      <g class="counter">
+        <rect x="-80" y="-28" width="160" height="56" rx="16" fill="#111827" stroke="#a855f7" stroke-width="2"/>
+        <text y="-4" class="nodeText">UI Quests</text>
+        <text y="15" class="nodeSub">Design</text>
+      </g>
+    </g>
+  </g>
+</svg>
