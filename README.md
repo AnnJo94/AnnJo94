@@ -74,18 +74,6 @@ Mindset     Build interactive, creative, game-inspired software
 
 </div>
 
----
-
-## Projects
-
-<div align="center">
-
-![Project Orbit](./project-orbit.svg)
-
-</div>
-
----
-
 ## Developer Mode
 
 <div align="center">
