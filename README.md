@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:4f46e5,100:14b8a6&height=220&section=header&text=Ann%20Joseph&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Learner&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:7c3aed,100:f97316&height=220&section=header&text=Ann%20Joseph&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Web%20Developer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=800&color=4F46E5&center=true&vCenter=true&width=760&lines=Building+clean+and+interactive+web+projects;Turning+logic+into+useful+software;Learning+by+creating+real+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=800&color=F97316&center=true&vCenter=true&width=760&lines=Game+Developer+%7C+Web+Developer;Building+interactive+digital+experiences;Designing+clean+interfaces+with+game+energy)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnnJo94-111827?style=for-the-badge&logo=github)](https://github.com/AnnJo94)
 [![Featured](https://img.shields.io/badge/Featured-Discrete%20Logic%20Lab-4f46e5?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/AnnJo94/discrete-logic-lab)
@@ -12,14 +12,13 @@
 <table>
   <tr>
     <td width="58%">
-      <h2>Creative Developer In Progress</h2>
+      <h2>Game Developer + Web Developer</h2>
       <p>
-        I build simple, polished, and interactive projects using web technologies and Python.
-        My focus is turning logic, algorithms, and ideas into clean software that is easy to use.
+        I create interactive digital experiences with the energy of game design and the structure of modern web development.
+        I like building projects that feel smooth, visual, responsive, and fun to use.
       </p>
       <p>
-        <strong>Currently exploring:</strong> JavaScript logic, responsive interfaces, discrete math tools,
-        and practical project building.
+        <strong>Developer style:</strong> playful interfaces, clean layouts, interactive logic, and polished presentation.
       </p>
     </td>
     <td width="42%" align="center">
@@ -34,14 +33,14 @@
 
 ```text
 Name        Ann Joseph
-Focus       Web development, logic, algorithms, UI design
+Role        Game Developer and Web Developer
 Tools       HTML, CSS, JavaScript, Python, Git, GitHub
-Mindset     Build simple, useful, polished software
+Mindset     Build interactive, creative, game-inspired software
 ```
 
-- I enjoy creating interactive projects with clean interfaces.
-- I like solving logic-based problems and turning them into working tools.
-- I am improving my skills through practical projects and consistent learning.
+- I am a game developer and web developer.
+- I enjoy creating interactive experiences with clean interfaces.
+- I like projects that combine logic, visuals, motion, and user interaction.
 
 ---
 
@@ -85,46 +84,21 @@ Mindset     Build simple, useful, polished software
 
 ---
 
-## GitHub Dashboard
-
-<div align="center">
-
-![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnJo94&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnJo94&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnnJo94&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Current Focus
-
-<div align="center">
-
-| Area | Progress |
-| --- | --- |
-| Web Interfaces | ██████████░░ 80% |
-| JavaScript Logic | ████████░░░░ 70% |
-| Python Projects | ███████░░░░░ 60% |
-| UI Design | ████████░░░░ 70% |
-
-</div>
-
----
-
-## Profile Vibe
+## Game Developer Spirit
 
 <div align="center">
 
 ```text
-Clean UI        + Practical Projects
-Logic Solving   + Creative Frontend
-Simple Tools    + Strong Presentation
-```
+START GAME
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnJo94&theme=tokyo-night&hide_border=true&area=true)
+Player      Ann Joseph
+Class       Game Developer / Web Developer
+Build       Creative UI + Interactive Logic
+Power-ups   HTML | CSS | JavaScript | Python
+Mission     Create fun, smooth, and useful digital experiences
+
+PRESS ENTER TO BUILD
+```
 
 </div>
 
@@ -132,7 +106,7 @@ Simple Tools    + Strong Presentation
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,45:4f46e5,100:0f172a&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,45:7c3aed,100:020617&height=120&section=footer)
 
 ### Thanks for visiting
 
