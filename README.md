@@ -9,6 +9,25 @@
 
 </div>
 
+<table>
+  <tr>
+    <td width="58%">
+      <h2>Creative Developer In Progress</h2>
+      <p>
+        I build simple, polished, and interactive projects using web technologies and Python.
+        My focus is turning logic, algorithms, and ideas into clean software that is easy to use.
+      </p>
+      <p>
+        <strong>Currently exploring:</strong> JavaScript logic, responsive interfaces, discrete math tools,
+        and practical project building.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="330" alt="Girl coding animation">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## About Me
@@ -70,8 +89,6 @@ Mindset     Build simple, useful, polished software
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AnnJo94&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6)
-
 ![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnJo94&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnJo94&layout=compact&theme=tokyonight&hide_border=true)
@@ -92,6 +109,22 @@ Mindset     Build simple, useful, polished software
 | JavaScript Logic | ████████░░░░ 70% |
 | Python Projects | ███████░░░░░ 60% |
 | UI Design | ████████░░░░ 70% |
+
+</div>
+
+---
+
+## Profile Vibe
+
+<div align="center">
+
+```text
+Clean UI        + Practical Projects
+Logic Solving   + Creative Frontend
+Simple Tools    + Strong Presentation
+```
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnJo94&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
